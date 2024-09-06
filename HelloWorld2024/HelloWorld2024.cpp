@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Welcome to 2024 Software Design & Engineering\n"; 
     std::cout << "Hello World!\n";
+    std::cout << "\tDeleted local repo & cloned from .git file\n\n\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
