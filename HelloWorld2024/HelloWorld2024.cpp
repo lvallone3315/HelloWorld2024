@@ -10,6 +10,7 @@ int main()
     std::cout << "\tDeleted local repo & cloned from .git file\n\n\n";
     std::cout << "  Adding a line from FDU Anywhere instance of VS\n";
     std::cout << "  adding line from FDU anywhere lvallone99 account\n";
+    std::cout << " if at first you don't succeed...\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
